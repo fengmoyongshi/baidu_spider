@@ -127,6 +127,7 @@ class FileRead:
                     root_url = self.UrlParser(root_url1)
     ##                root_url = 'http://baike.baidu.com/item/'+c1
     ##                job_detal = c2
+    ##              job_detal是关键词（job_detal is keywords）
                     job_detal = '管理|首席|总监|董事|监事|会计|工程师|总裁|经理|秘书|财务|财务负责人|法律顾问|纪检组长|总经济师|工会主席|技术总监|办公室主任'
                     if root_url is not None:
     ##                    print(root_url)
